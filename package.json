@@ -1,0 +1,26 @@
+{
+  "name": "defer",
+  "version": "1.0.0",
+  "description": "Simple Deferred wrapper for Bluebird",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whydoidoit/delay.git"
+  },
+  "keywords": [
+    "PlayCanvas",
+    "Deferred"
+  ],
+  "author": "Mike Talbot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whydoidoit/delay/issues"
+  },
+  "homepage": "https://github.com/whydoidoit/delay#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0"
+  }
+}
